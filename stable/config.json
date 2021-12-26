@@ -20,7 +20,6 @@
   "environment": {
     "STORAGE_PATH": "/config/double-take",
     "CONFIG_PATH": "/config/double-take",
-    "SECRETS_PATH": "/config",
     "MEDIA_PATH": "/media/double-take",
     "HA_ADDON": "true"
   }
